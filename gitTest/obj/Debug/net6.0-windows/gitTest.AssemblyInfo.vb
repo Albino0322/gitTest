@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("gitTest"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de360e030b55da9c2fc1a29d5fcf5310f6f79dc3"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("gitTest"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("gitTest"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
